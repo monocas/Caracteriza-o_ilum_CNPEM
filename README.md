@@ -1,9 +1,7 @@
 # Caracteriza-o_ilum_CNPEM
 Resumo das técnicas aprendidas até o 2 semestre em ordem cronológica; 
-- Microscopia óptica 
+- Microscopia óptica ok
 - Eletroflorese
-- Sequenciamento de DNA
-- AFM
 - STM
 - Espectrômetro RAMAN
 - FTIR
@@ -14,5 +12,5 @@ Resumo das técnicas aprendidas até o 2 semestre em ordem cronológica;
 - Microscopia metalográfica
 - DLS e Zeta
 - Microscopia ótica confocal
-- XPS
+- XPS ok
 - ...
