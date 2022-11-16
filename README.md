@@ -2,6 +2,8 @@
 Resumo das técnicas aprendidas até o 2 semestre em ordem cronológica; 
 - Microscopia óptica (ok)
 - Eletroflorese
+- AFM
+- Leitor de Placas
 - STM
 - Espectrômetro RAMAN
 - FTIR
