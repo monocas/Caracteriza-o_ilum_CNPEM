@@ -4,11 +4,11 @@ Resumo das técnicas aprendidas até o 2 semestre em ordem cronológica;
 - Eletroflorese (V)
 - AFM (M)
 - Leitor de Placas (V)
-- STM
+- STM (A)
 - Espectrômetro RAMAN
-- FTIR
+- FTIR (V)
 - UV-Vis
-- Espectroscopia de fluorescência
+- Espectroscopia de fluorescência (D)
 - MEV (D)
 - Microscopia metalográfica
 - DLS e Zeta (A)
