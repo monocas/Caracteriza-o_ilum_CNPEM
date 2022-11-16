@@ -9,7 +9,7 @@ Sumário das técnicas aprendidas até o 2 semestre; (Autor, status)
 - STM (A, em andamento)
 - Espectrômetro RAMAN (D, em andamento)
 - FTIR (V, em andamento)
-- UV-Vis (B)
+- UV-Vis (B, em andamento)
 - Espectroscopia de fluorescência (D, em andamento)
 - MEV (D, em andamento)
 - Microscopia metalográfica (?,?)
@@ -17,3 +17,7 @@ Sumário das técnicas aprendidas até o 2 semestre; (Autor, status)
 - Microscopia ótica confocal (P, em andamento)
 - XPS (V, ok)
 - ...
+
+Sem autor: 1
+Em andamento: 11
+Ok: 2
