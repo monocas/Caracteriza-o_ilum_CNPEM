@@ -7,7 +7,6 @@ Resumo das técnicas aprendidas até o 2 semestre em ordem cronológica;
 - STM
 - Espectrômetro RAMAN
 - FTIR
-- Espectrofluorímetro
 - UV-Vis
 - Espectroscopia de fluorescência
 - MEV
