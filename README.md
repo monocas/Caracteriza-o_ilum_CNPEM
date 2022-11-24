@@ -20,5 +20,10 @@ Sumário das técnicas aprendidas até o 2 semestre; (Autor, status)
 - ...
 
 Sem autor: 1
+
+
 Em andamento: 12
+
 Ok: 2
+
+Autores: Vitor Barelli, Débora van Putten, Artur Kimura, Paola Ferrari, Monyque Silva, Barbara Rodrigues, Vitória Nicoleti, Ygor Ruas e Guilherme Dariani.
