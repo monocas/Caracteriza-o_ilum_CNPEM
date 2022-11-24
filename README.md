@@ -16,8 +16,9 @@ Sumário das técnicas aprendidas até o 2 semestre; (Autor, status)
 - DLS e Zeta (A, em andamento)
 - Microscopia ótica confocal (P, em andamento)
 - XPS (V, ok)
+- Tratamento de dados (G, em andamento)
 - ...
 
 Sem autor: 1
-Em andamento: 11
+Em andamento: 12
 Ok: 2
