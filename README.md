@@ -19,9 +19,6 @@ Sumário das técnicas aprendidas até o 2 semestre; (Autor, status)
 - Tratamento de dados (G, em andamento)
 - ...
 
-Sem autor: 1
-
-
 Em andamento: 12
 
 Ok: 2
