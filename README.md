@@ -5,7 +5,7 @@ Sumário das técnicas aprendidas até o 2 semestre; (Autor, status)
 - Microscopia óptica (V,ok)
 - Eletroforese (Vih, em andamento)
 - AFM (M, em andamento)
-- Leitor de Placas (V, em andamento)
+- Leitor de Placas (V, ok)
 - STM (A, em andamento)
 - Espectrômetro RAMAN (D, em andamento)
 - FTIR (V, em andamento)
@@ -20,12 +20,14 @@ Sumário das técnicas aprendidas até o 2 semestre; (Autor, status)
 - Tratamento de dados (G, em andamento)
 - ...
 
-Em andamento: 11
+Em andamento: 12
 
-Ok: 3
+Ok: 4
 
 Autores: Vitor Barelli, Débora van Putten, Artur Kimura, Paola Ferrari, Monyque Silva, Barbara Rodrigues, Vitória Nicoleti, Ygor Ruas e Guilherme Dariani.
 
-Caso encontrem algum erro de código ou digitação informar Vitor Barelli, ou o Autor do Resumo
+Caso encontrem algum erro nas informações dos resumos, procure o autor e proponha uma mudança.
+
+Caso encontrem algum erro de código ou digitação informar Vitor Barelli, ou o Autor do Resumo.
 
 Caso alguma imagem não abra diretamente no resumo, você pode simplesmente clicar no arquivo da imagem q ela vai abrir separadamente.
