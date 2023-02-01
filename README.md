@@ -25,3 +25,7 @@ Em andamento: 11
 Ok: 3
 
 Autores: Vitor Barelli, Débora van Putten, Artur Kimura, Paola Ferrari, Monyque Silva, Barbara Rodrigues, Vitória Nicoleti, Ygor Ruas e Guilherme Dariani.
+
+Caso encontrem algum erro de código ou digitação informar Vitor Barelli, ou o Autor do Resumo
+
+Caso alguma imagem não abra diretamente no resumo, você pode simplesmente clicar no arquivo da imagem q ela vai abrir separadamente.
