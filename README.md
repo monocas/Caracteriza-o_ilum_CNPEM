@@ -2,7 +2,7 @@
 Esse GitHub tem o objetivo de criar um Resumo/Guia/Manual/Norte sobre as técnicas e métodos de caracterização, para auxiliar os alunos nos seus estudos!
 
 Sumário das técnicas aprendidas até o 2 semestre; (Autor, status)
-- Microscopia óptica (V,ok)
+- Microscopia óptica (V, ok)
 - Eletroforese (Vih, em andamento)
 - AFM (M, em andamento)
 - Leitor de Placas (V, ok)
