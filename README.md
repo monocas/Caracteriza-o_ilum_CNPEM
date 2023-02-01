@@ -16,7 +16,7 @@ Sumário das técnicas aprendidas até o 2 semestre; (Autor, status)
 - DLS e Zeta (A, em andamento)
 - Microscopia ótica confocal (P, ok)
 - XPS (V, ok)
-- Eletroforese de proteínas (?, ?)
+- Eletroforese de proteínas (V, andamento)
 - Tratamento de dados (G, em andamento)
 - ...
 
