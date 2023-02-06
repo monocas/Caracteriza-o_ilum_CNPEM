@@ -22,7 +22,7 @@ Sumário das técnicas aprendidas até o 2 semestre; (Autor, status)
 
 Em andamento: 11
 
-Ok: 6
+Ok: 5
 
 Autores: Vitor Barelli, Débora van Putten, Artur Kimura, Paola Ferrari, Monyque Silva, Barbara Rodrigues, Vitória Nicoleti, Ygor Ruas e Guilherme Dariani.
 
