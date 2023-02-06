@@ -16,13 +16,13 @@ Sumário das técnicas aprendidas até o 2 semestre; (Autor, status)
 - DLS e Zeta (A, em andamento)
 - Microscopia ótica confocal (P, ok)
 - XPS (V, ok)
-- Eletroforese de proteínas (V, em andamento)
+- Eletroforese de proteínas (V, ok)
 - Tratamento de dados (G, em andamento)
 - ...
 
-Em andamento: 11
+Em andamento: 10
 
-Ok: 5
+Ok: 6
 
 Autores: Vitor Barelli, Débora van Putten, Artur Kimura, Paola Ferrari, Monyque Silva, Barbara Rodrigues, Vitória Nicoleti, Ygor Ruas e Guilherme Dariani.
 
